@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="DynArrStack" type="CLASS" />
+      <mapping pattern="&lt;testi" type="JAVA" />
+      <mapping pattern="BimEdit" type="JAVA" />
+      <mapping pattern="fgsga" type="JAVA" />
+      <mapping pattern="laki2" type="JAVA" />
+      <mapping pattern="testi" type="PLAIN_TEXT" />
+      <mapping pattern="Testi" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

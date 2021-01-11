@@ -1,0 +1,14 @@
+echo
+print
+print 1
+print 12
+print 0
+print 13
+print 1 2
+print x
+print one
+print 3 four five six
+Print
+printFirst
+lastprint
+quit

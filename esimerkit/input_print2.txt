@@ -1,0 +1,21 @@
+echo
+print
+print 20255
+print 17033
+print 22996
+print 21576
+print 3225
+print 13876
+print 1023
+print -1
+print 13
+print 1023 22996 13876
+print x
+print one
+print aaa bb c 13876
+print 1.27033
+Print
+printFirst
+lastprint
+let's print
+quit

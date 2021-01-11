@@ -1,1 +1,0 @@
-# Olio-ohjelmoinnin-harkkaty-

@@ -1,4 +1,4 @@
-# Olio-ohjelmoinnin-harkkaty-Ohjelma käsittelee ja muokkaa vitsi tai uutinen dokumentteja käyttäjän haluamalla tavalla.
+# Olio-ohjelmoinnin-harkkatyö-Ohjelma käsittelee ja muokkaa vitsi tai uutinen dokumentteja käyttäjän haluamalla tavalla.
 Käyttäjällä on useita eri mahdollisuuksia muokkailla dokumenttia
 
 ## Print

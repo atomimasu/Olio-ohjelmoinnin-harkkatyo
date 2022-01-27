@@ -11,6 +11,7 @@
       <mapping pattern="Teksti" type="PLAIN_TEXT" />
       <mapping pattern="testi" type="PLAIN_TEXT" />
       <mapping pattern="Testi" type="PLAIN_TEXT" />
+      <mapping pattern="Words" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

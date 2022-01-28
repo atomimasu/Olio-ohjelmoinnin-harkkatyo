@@ -7,6 +7,7 @@
       <mapping pattern="fgsga" type="JAVA" />
       <mapping pattern="laki2" type="JAVA" />
       <mapping pattern="SearchResults" type="JSON" />
+      <mapping pattern="SuomiSanat" type="PLAIN_TEXT" />
       <mapping pattern="Data" type="PLAIN_TEXT" />
       <mapping pattern="Teksti" type="PLAIN_TEXT" />
       <mapping pattern="testi" type="PLAIN_TEXT" />

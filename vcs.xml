@@ -18,6 +18,10 @@
           <option name="url" value="git@course-gitlab.tuni.fi:comp.cs.140-ohjelmointi-3_2021-2022/testing_tapio_nevalainen.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@course-gitlab.tuni.fi:comp-se-110-software-design_2022-2023/1-group.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\venal\IdeaProjects" />
